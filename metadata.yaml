@@ -1,0 +1,35 @@
+_repo: The-monster-hunters_70390
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolt-Wheeler, Francis
+    alias: Rolt-Wheeler, Francis William
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '4886'
+    url: http://www.gutenberg.org/2009/agents/4886
+    wikipedia: https://fr.wikipedia.org/wiki/Francis_Rolt-Wheeler
+description: '"With fifty-three illustrations, mostly from photographs loaned by the
+  American Museum of Natural History."'
+gutenberg_issued: '2023-03-26'
+identifiers:
+  gutenberg: '70390'
+  lccn: '16014350'
+language: en
+pgterms:marc904: https://archive.org/details/monsterhunters00rolt/page/n3/mode/2up
+pgterms:marc905: 20220121030557roltwheele
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bLothrop, Lee & Shepard, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology -- Juvenile literature'
+- !lcc 'QE'
+- GITenberg
+title: The monster-hunters
+url: http://www.gutenberg.org/ebooks/70390
